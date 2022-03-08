@@ -5,7 +5,8 @@ I am a capable, adaptable, organized person, with great motivation and dispositi
 ###
 I have development knowledge in: 
 Laravel, 
-Angular, 
+Angular,
+Express,
 PHP, 
 JQuery, 
 Java, 
