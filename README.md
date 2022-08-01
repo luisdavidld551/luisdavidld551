@@ -17,4 +17,10 @@ CSS,
 Bootstrap, 
 MongoDB, 
 Android, 
-REST APIs.
+APIs REST,
+C#,
+ASP .NET,
+Visual Basic,
+SQL Server,
+Express.js,
+Microsoft Excel.
